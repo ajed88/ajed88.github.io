@@ -4,7 +4,7 @@
 
 ### Data Dashboards 
 
-[Spotify 2023 PowerBI](/spotify)
+[Spotify 2023 PowerBI](/spotify.html)
 <img src="images/Spotify2023.png?raw=true"/>
 
 ---
