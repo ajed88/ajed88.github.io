@@ -8,7 +8,7 @@
 <img src="images/Spotify2023.png?raw=true"/>
 
 ---
-[USA Crime Data Tableau](/pdf/sample_presentation.pdf)
+[USA Crime Data Tableau](/crime.html)
 <img src="images/Crime.png?raw=true"/>
 
 ---
