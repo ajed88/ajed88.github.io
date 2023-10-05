@@ -5,7 +5,7 @@
 ### Data Dashboards 
 
 [Spotify 2023 PowerBI](/spotify.html)
-<img src="images/Spotify2023.png?raw=true"/>
+<img src="images/Spotify1.png?raw=true"/>
 
 ---
 [USA Crime Data Tableau](/crime.html)
