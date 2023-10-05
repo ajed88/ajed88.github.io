@@ -15,7 +15,7 @@
 
 ### Machine Learning
 
-- [Glioma Modeling](https://github.com/ajed88/Glioma_ML)
+- [Glioma Modeling](https://github.com/ajed88/Glioma_ML) I learned various models, optimised parameters, and used a number of evaluation metrics to refine a custom ensemble model for predicting High or Low grade gliomas.
 
 
 ---
